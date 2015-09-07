@@ -21,14 +21,6 @@ class CurrencyConverter
   end
 end
 
-# @exchange_rates.each do |country, rate|
-#   if country_code_input == country && currency_obj.country_code == country
-#     new_country_code = country_code_input
-#     amount = (@exchange_rates[country_code_input] / @exchange_rates[country])
-#     Currency.new(new_country_code, amount)
-#   end
-# end
-
 
 
 

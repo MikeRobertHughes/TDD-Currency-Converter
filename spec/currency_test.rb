@@ -47,7 +47,6 @@ class CurrencyTest < Minitest::Test
   end
 
   def test_currency_with_different_code_cannot_be_added
-
     assert_raises(DifferentCurrencyCodeError) do
       currency1 = Currency.new('USD', 1)
       currency2 = Currency.new('GBP', 2)
