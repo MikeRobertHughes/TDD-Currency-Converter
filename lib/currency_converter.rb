@@ -47,21 +47,6 @@ end
 
 
 
-############################# IRB Copy/Paste ######################
-# rates = {:USD=>1.00000, :EUR=>0.89526, :GBP=>0.65428, :AUD=>1.44375}
-
-# rates.each do |country, rate|
-#   puts "The country code #{country} has a value of #{rate} per United States Dollar."
-# end
-
-
-
-
-
-
-
-
-
 
 
 
